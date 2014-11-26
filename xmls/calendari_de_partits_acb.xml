@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="calendari_de_partits_acb.xsl"?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 2.11.4
+- http://www.phpmyadmin.net
+-
+- Host: localhost
+- Generation Time: Nov 15, 2014 at 02:36 PM
+- Server version: 5.1.57
+- PHP Version: 5.2.17
+-->
+
+<!--
+- Database: 'a2785298_xml'
+-->
+<taller_xml>
+  <!-- Table calendari_partits_acb -->
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>UCAM Murcia CB </equip_local>
+        <equip_visitant>Valencia Basket Club</equip_visitant>
+        <punts_local>85</punts_local>
+        <punts_visitant>76</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>Baloncesto Sevilla </equip_local>
+        <equip_visitant>Iberostar Tenerife</equip_visitant>
+        <punts_local>87</punts_local>
+        <punts_visitant>96</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>CAI Zaragoza </equip_local>
+        <equip_visitant>FIATC Joventut</equip_visitant>
+        <punts_local>74</punts_local>
+        <punts_visitant>79</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>Tuenti M?vil Estudiantes </equip_local>
+        <equip_visitant>Gipuzkoa Basket</equip_visitant>
+        <punts_local>91</punts_local>
+        <punts_visitant>74</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>Real Madrid </equip_local>
+        <equip_visitant>Herbalife Gran Canaria</equip_visitant>
+        <punts_local>70</punts_local>
+        <punts_visitant>57</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>Rio Natura Monbus Obradoiro </equip_local>
+        <equip_visitant>La Bruixa d'Or Manresa</equip_visitant>
+        <punts_local>88</punts_local>
+        <punts_visitant>64</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>FC Barcelona </equip_local>
+        <equip_visitant>Laboral Kutxa Baskonia</equip_visitant>
+        <punts_local>87</punts_local>
+        <punts_visitant>65</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>Unicaja </equip_local>
+        <equip_visitant>MoraBanc Andorra</equip_visitant>
+        <punts_local>83</punts_local>
+        <punts_visitant>69</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>1</jornada>
+        <data>2005-06-14</data>
+        <equip_local>Bilbao Basket </equip_local>
+        <equip_visitant>Montakit Fuenlabrada</equip_visitant>
+        <punts_local>73</punts_local>
+        <punts_visitant>54</punts_visitant>
+        <redactor>Ferran Mas </redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>Laboral Kutxa Baskonia</equip_local>
+        <equip_visitant>Unicaja</equip_visitant>
+        <punts_local>79</punts_local>
+        <punts_visitant>88</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>La Bruixa d'Or Manresa</equip_local>
+        <equip_visitant>FC Barcelona</equip_visitant>
+        <punts_local>69</punts_local>
+        <punts_visitant>88</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>Herbalife Gran Canaria</equip_local>
+        <equip_visitant>Rio Natura Monbus Obradoiro</equip_visitant>
+        <punts_local>72</punts_local>
+        <punts_visitant>57</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>Gipuzkoa Basket</equip_local>
+        <equip_visitant>Real Madrid</equip_visitant>
+        <punts_local>76</punts_local>
+        <punts_visitant>90</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>FIATC Joventut</equip_local>
+        <equip_visitant>Tuenti M?vil Estudiantes</equip_visitant>
+        <punts_local>65</punts_local>
+        <punts_visitant>60</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>Iberostar Tenerife</equip_local>
+        <equip_visitant>CAI Zaragoza</equip_visitant>
+        <punts_local>66</punts_local>
+        <punts_visitant>67</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>Valencia Basket Club</equip_local>
+        <equip_visitant>Baloncesto Sevilla</equip_visitant>
+        <punts_local>96</punts_local>
+        <punts_visitant>73</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>Montakit Fuenlabrada</equip_local>
+        <equip_visitant>UCAM Murcia CB</equip_visitant>
+        <punts_local>66</punts_local>
+        <punts_visitant>71</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>2</jornada>
+        <data>2011-11-14</data>
+        <equip_local>MoraBanc Andorra</equip_local>
+        <equip_visitant>Bilbao Basket</equip_visitant>
+        <punts_local>75</punts_local>
+        <punts_visitant>76</punts_visitant>
+        <redactor>Manuel Mac?as</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>Baloncesto Sevilla</equip_local>
+        <equip_visitant>Montakit Fuenlabrada</equip_visitant>
+        <punts_local>68</punts_local>
+        <punts_visitant>71</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>CAI Zaragoza</equip_local>
+        <equip_visitant>Valencia Basket Club</equip_visitant>
+        <punts_local>69</punts_local>
+        <punts_visitant>77</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>Tuenti M?vil Estudiantes</equip_local>
+        <equip_visitant>Iberostar Tenerife</equip_visitant>
+        <punts_local>66</punts_local>
+        <punts_visitant>79</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>Real Madrid</equip_local>
+        <equip_visitant>FIATC Joventut</equip_visitant>
+        <punts_local>90</punts_local>
+        <punts_visitant>88</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>Rio Natura Monbus Obradoiro</equip_local>
+        <equip_visitant>Gipuzkoa Basket</equip_visitant>
+        <punts_local>85</punts_local>
+        <punts_visitant>69</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>FC Barcelona</equip_local>
+        <equip_visitant>Herbalife Gran Canaria</equip_visitant>
+        <punts_local>80</punts_local>
+        <punts_visitant>61</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>Unicaja</equip_local>
+        <equip_visitant>La Bruixa d'Or Manresa</equip_visitant>
+        <punts_local>81</punts_local>
+        <punts_visitant>65</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>MoraBanc Andorra</equip_local>
+        <equip_visitant>Laboral Kutxa Baskonia</equip_visitant>
+        <punts_local>87</punts_local>
+        <punts_visitant>85</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>3</jornada>
+        <data>2012-11-14</data>
+        <equip_local>Bilbao Basket</equip_local>
+        <equip_visitant>UCAM Murcia CB</equip_visitant>
+        <punts_local>82</punts_local>
+        <punts_visitant>74</punts_visitant>
+        <redactor>David L?pez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>La Bruixa d'Or Manresa </equip_local>
+        <equip_visitant>MoraBanc Andorra </equip_visitant>
+        <punts_local>88</punts_local>
+        <punts_visitant>80</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>Herbalife Gran Canaria </equip_local>
+        <equip_visitant>Unicaja </equip_visitant>
+        <punts_local>67</punts_local>
+        <punts_visitant>74</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>Gipuzkoa Basket </equip_local>
+        <equip_visitant>FC Barcelona </equip_visitant>
+        <punts_local>43</punts_local>
+        <punts_visitant>57</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>FIATC Joventut </equip_local>
+        <equip_visitant>Rio Natura Monbus Obradoiro </equip_visitant>
+        <punts_local>72</punts_local>
+        <punts_visitant>78</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>Iberostar Tenerife </equip_local>
+        <equip_visitant>Real Madrid </equip_visitant>
+        <punts_local>82</punts_local>
+        <punts_visitant>93</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>Valencia Basket Club </equip_local>
+        <equip_visitant>Tuenti M?vil Estudiantes </equip_visitant>
+        <punts_local>84</punts_local>
+        <punts_visitant>67</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>Montakit Fuenlabrada </equip_local>
+        <equip_visitant>CAI Zaragoza </equip_visitant>
+        <punts_local>67</punts_local>
+        <punts_visitant>69</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>UCAM Murcia CB </equip_local>
+        <equip_visitant>Baloncesto Sevilla </equip_visitant>
+        <punts_local>98</punts_local>
+        <punts_visitant>68</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>4</jornada>
+        <data>2026-10-14</data>
+        <equip_local>Laboral Kutxa Baskonia </equip_local>
+        <equip_visitant>Bilbao Basket </equip_visitant>
+        <punts_local>86</punts_local>
+        <punts_visitant>74</punts_visitant>
+        <redactor>David Belda</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>CAI Zaragoza </equip_local>
+        <equip_visitant>UCAM Murcia CB </equip_visitant>
+        <punts_local>82</punts_local>
+        <punts_visitant>63</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>Tuenti M?vil Estudiantes </equip_local>
+        <equip_visitant>Montakit Fuenlabrada </equip_visitant>
+        <punts_local>86</punts_local>
+        <punts_visitant>79</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>Real Madrid </equip_local>
+        <equip_visitant>Valencia Basket Club </equip_visitant>
+        <punts_local>90</punts_local>
+        <punts_visitant>71</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>Rio Natura Monbus Obradoiro </equip_local>
+        <equip_visitant>Iberostar Tenerife </equip_visitant>
+        <punts_local>63</punts_local>
+        <punts_visitant>82</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>FC Barcelona </equip_local>
+        <equip_visitant>FIATC Joventut </equip_visitant>
+        <punts_local>82</punts_local>
+        <punts_visitant>83</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>Unicaja </equip_local>
+        <equip_visitant>Gipuzkoa Basket </equip_visitant>
+        <punts_local>74</punts_local>
+        <punts_visitant>59</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>MoraBanc Andorra </equip_local>
+        <equip_visitant>Herbalife Gran Canaria </equip_visitant>
+        <punts_local>91</punts_local>
+        <punts_visitant>86</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>Laboral Kutxa Baskonia </equip_local>
+        <equip_visitant>La Bruixa d'Or Manresa </equip_visitant>
+        <punts_local>87</punts_local>
+        <punts_visitant>67</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>5</jornada>
+        <data>2013-11-14</data>
+        <equip_local>Bilbao Basket </equip_local>
+        <equip_visitant>Baloncesto Sevilla </equip_visitant>
+        <punts_local>89</punts_local>
+        <punts_visitant>61</punts_visitant>
+        <redactor>Llu?s Delgado</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2009-11-14</data>
+        <equip_local>Herbalife Gran Canaria</equip_local>
+        <equip_visitant>Laboral Kutxa Baskonia</equip_visitant>
+        <punts_local>93</punts_local>
+        <punts_visitant>77</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2008-11-14</data>
+        <equip_local>Gipuzkoa Basket</equip_local>
+        <equip_visitant>MoraBanc Andorra</equip_visitant>
+        <punts_local>67</punts_local>
+        <punts_visitant>64</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2009-11-14</data>
+        <equip_local>FIATC Joventut</equip_local>
+        <equip_visitant>Unicaja</equip_visitant>
+        <punts_local>82</punts_local>
+        <punts_visitant>74</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2009-11-14</data>
+        <equip_local>Iberostar Tenerife</equip_local>
+        <equip_visitant>FC Barcelona</equip_visitant>
+        <punts_local>66</punts_local>
+        <punts_visitant>80</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2009-11-14</data>
+        <equip_local>Valencia Basket Club</equip_local>
+        <equip_visitant>Rio Natura Monbus Obradoiro</equip_visitant>
+        <punts_local>81</punts_local>
+        <punts_visitant>64</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2009-11-14</data>
+        <equip_local>Montakit Fuenlabrada</equip_local>
+        <equip_visitant>Real Madrid</equip_visitant>
+        <punts_local>94</punts_local>
+        <punts_visitant>96</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2009-11-14</data>
+        <equip_local>UCAM Murcia CB</equip_local>
+        <equip_visitant>Tuenti M?vil Estudiantes</equip_visitant>
+        <punts_local>79</punts_local>
+        <punts_visitant>65</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2009-11-14</data>
+        <equip_local>Baloncesto Sevilla</equip_local>
+        <equip_visitant>CAI Zaragoza</equip_visitant>
+        <punts_local>77</punts_local>
+        <punts_visitant>73</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>6</jornada>
+        <data>2009-11-14</data>
+        <equip_local>La Bruixa d'Or Manresa</equip_local>
+        <equip_visitant>Bilbao Basket</equip_visitant>
+        <punts_local>76</punts_local>
+        <punts_visitant>77</punts_visitant>
+        <redactor>Jos? Luis Ant?nez</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2016-11-14</data>
+        <equip_local>Tuenti M?vil Estudiantes</equip_local>
+        <equip_visitant>Baloncesto Sevilla</equip_visitant>
+        <punts_local>67</punts_local>
+        <punts_visitant>64</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2015-11-14</data>
+        <equip_local>Real Madrid</equip_local>
+        <equip_visitant>UCAM Murcia CB </equip_visitant>
+        <punts_local>76</punts_local>
+        <punts_visitant>77</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2015-11-14</data>
+        <equip_local>Rio Natura Monbus Obradoiro</equip_local>
+        <equip_visitant>Montakit Fuenlabrada</equip_visitant>
+        <punts_local>94</punts_local>
+        <punts_visitant>96</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2015-11-14</data>
+        <equip_local>FC Barcelona</equip_local>
+        <equip_visitant>Valencia Basket Club</equip_visitant>
+        <punts_local>76</punts_local>
+        <punts_visitant>65</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2015-11-14</data>
+        <equip_local>Herbalife</equip_local>
+        <equip_visitant>Laboral</equip_visitant>
+        <punts_local>93</punts_local>
+        <punts_visitant>77</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2015-11-14</data>
+        <equip_local>Unicaja</equip_local>
+        <equip_visitant>Iberostar Tenerife</equip_visitant>
+        <punts_local>66</punts_local>
+        <punts_visitant>80</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2015-11-14</data>
+        <equip_local>MoraBanc Andorra</equip_local>
+        <equip_visitant>FIATC Joventut</equip_visitant>
+        <punts_local>82</punts_local>
+        <punts_visitant>74</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2015-11-14</data>
+        <equip_local>Laboral Kutxa Baskonia</equip_local>
+        <equip_visitant>Gipuzkoa Basket</equip_visitant>
+        <punts_local>81</punts_local>
+        <punts_visitant>64</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2016-11-14</data>
+        <equip_local>La Bruixa d'Or Manresa</equip_local>
+        <equip_visitant>Herbalife Gran Canaria</equip_visitant>
+        <punts_local>85</punts_local>
+        <punts_visitant>76</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>7</jornada>
+        <data>2016-11-14</data>
+        <equip_local>Bilbao Basket</equip_local>
+        <equip_visitant>CAI Zaragoza</equip_visitant>
+        <punts_local>85</punts_local>
+        <punts_visitant>76</punts_visitant>
+        <redactor>Antonio Casas</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>UCAM Murcia CB</equip_local>
+        <equip_visitant>Valencia Basket Club</equip_visitant>
+        <punts_local>85</punts_local>
+        <punts_visitant>76</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>Baloncesto Sevilla </equip_local>
+        <equip_visitant>Baloncesto Sevilla - Iberostar Tenerife</equip_visitant>
+        <punts_local>87</punts_local>
+        <punts_visitant>96</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>CAI Zaragoza </equip_local>
+        <equip_visitant>FIATC Joventut</equip_visitant>
+        <punts_local>74</punts_local>
+        <punts_visitant>79</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>Tuenti M?vil Estudiantes </equip_local>
+        <equip_visitant>Gipuzkoa Basket</equip_visitant>
+        <punts_local>91</punts_local>
+        <punts_visitant>74</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>Real Madrid</equip_local>
+        <equip_visitant>Herbalife Gran Canaria</equip_visitant>
+        <punts_local>70</punts_local>
+        <punts_visitant>57</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>Rio Natura Monbus Obradoiro</equip_local>
+        <equip_visitant>La Bruixa d'Or Manresa</equip_visitant>
+        <punts_local>88</punts_local>
+        <punts_visitant>64</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>FC Barcelona </equip_local>
+        <equip_visitant>Laboral Kutxa Baskonia</equip_visitant>
+        <punts_local>87</punts_local>
+        <punts_visitant>65</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>Unicaja </equip_local>
+        <equip_visitant>MoraBanc Andorra</equip_visitant>
+        <punts_local>83</punts_local>
+        <punts_visitant>69</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+    <calendari_partits_acb>
+        <jornada>8</jornada>
+        <data>2005-10-14</data>
+        <equip_local>Bilbao Basket </equip_local>
+        <equip_visitant>Montakit Fuenlabrada</equip_visitant>
+        <punts_local>73</punts_local>
+        <punts_visitant>54</punts_visitant>
+        <redactor>Elisabet Guix</redactor>
+    </calendari_partits_acb>
+</taller_xml>
